@@ -19,6 +19,12 @@ Dashboard desenvolvido para dar visibilidade completa da performance logística 
 - **Pedidos**: OTIF, On Time, In Full, Order Cycle Time, ocorrências por motivo/responsabilidade, mapa geográfico, evolução anual
 - **Custos**: Receita Bruta, Custo Total, Margem Operacional, Resultado por filial e tipo de veículo, tabela dinâmica
 
+## Prévia do painel
+
+![Página Home](imagens/Home.png)
+![Página Pedidos](imagens/Pedidos.png)
+![Página Custos](imagens/Custos.png)
+
 ## O que este projeto demonstra
 
 - Modelagem de dados e escrita de medidas DAX (KPIs de % e variação ano a ano)
